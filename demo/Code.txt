@@ -3,7 +3,7 @@ public class Code(){
 	puclic Static void main(String[] args){
 		int a=10;
 		int b=15;
-		int c=a+b;
+		double c=a+b;  // the output is expected in a double format
 		System.out.println("Hello world");
 		System.out.println(c);
 	}
